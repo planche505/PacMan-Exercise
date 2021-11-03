@@ -4,6 +4,6 @@ This exercise was assigned as part of the MIT full stack bootcamp. It has a butt
 
 Future changes could reverse the direction the pacmen are facing after they smash into a wall.
 
-See MIT license file.
+Created under MIT cc License. See license file.
 
 <img src="PacMan1.png">
